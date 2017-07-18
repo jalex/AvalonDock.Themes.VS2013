@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{89286EB4-B4A1-418C-839A-067B00F442D8}</ProjectGuid>
+    <ProjectGuid>{7AFACFA4-1CE4-435D-9D5E-A64D6B037DBD}</ProjectGuid>
     <OutputType>library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Xceed.Wpf.AvalonDock.Themes.VS2013</RootNamespace>
